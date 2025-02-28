@@ -1,0 +1,3 @@
+I had partiotioned my harddisk space for windows and ubuntu and installed ubuntu 22.04 .
+first i installed ubuntu iso and then installed universal usb installer after that using usb drive i copied ubuntu into it and then in bios mode disabled secureboot option and then installed ubuntu after that with the help of ros2humble documentation provided by horizon team installed ros2 in my laptop
+and after reffering to documents and relying on youtube i created aservice node that gives service to a client node that had requested the service
